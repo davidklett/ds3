@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1552869420 source:c:\users\davidklett.desktop-hv02s6b\documents\datastructures\testmaps\main.cpp
+	<iostream>
+	<map>
+	<vector>
+

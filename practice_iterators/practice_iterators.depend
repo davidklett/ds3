@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1550434760 source:c:\users\davidklett.desktop-hv02s6b\documents\datastructures\practice_iterators\main.cpp
+	<vector>
+	<list>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<iterator>
+
