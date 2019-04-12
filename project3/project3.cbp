@@ -32,7 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="heapsort.h" />
+		<Unit filename="insertsort.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="mergesort.h" />
+		<Unit filename="quicksort.h" />
+		<Unit filename="sorting.dat" />
 		<Extensions>
 			<code_completion />
 			<envvars />
